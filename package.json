@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mois3222/curso-scope-closure/issues"
   },
-  "homepage": "https://github.com/mois3222/curso-scope-closure#readme"
+  "homepage": "https://github.com/mois3222/curso-scope-closure#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }

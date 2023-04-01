@@ -16,7 +16,7 @@ function bestFruit() {
 bestFruit();
 
 function countries() {
-  country = "Colomobia"; //
+  country = "Colomobia"; //global
 
   console.log(country);
 }
